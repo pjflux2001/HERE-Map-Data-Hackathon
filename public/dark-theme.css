@@ -1,0 +1,29 @@
+body{
+    color: white;
+    background-color: #2a2a2a;
+}
+.card,.segment,.step{
+    background-color: #3d3d3d !important;
+}
+.ui.message{
+    background-color: #2a2a2a !important;
+}
+.description,.meta,.header,.icon{
+    color:white !important;
+}
+p,hr,h1,h3,label,a {
+    color: white !important;
+}
+.dark {
+    color: white !important;
+}
+#cover{
+    background-image: linear-gradient(to bottom, rgba(127, 127, 213,0.6), rgba(134, 168, 231,0.5)),url('https://i.pinimg.com/originals/91/e0/06/91e006d964c100929fd421f76b3834cd.jpg') !important;	
+	background-repeat: no-repeat;
+	height:95vh;
+    background-size: cover;
+}
+.content{
+    color: white !important;
+}
+
