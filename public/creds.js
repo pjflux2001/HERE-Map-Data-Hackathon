@@ -1,4 +1,4 @@
 hereCreds = {
-    JSKEY: "3S85q6itLH5NKHvnnnvr3i4NTIcWII6tzsSz5ggTWLc",
-    RESTKEY: "YhVGXN0x9ECZEIYm3oWV14vJLNdQ40Du9YKj-rWS5ec"
+    JSKEY: "JP-gD6e4WWDbixevPMBGqYnruBv8wo_QO6h6a-aIErI",
+    RESTKEY: "iVEiE7UNqhuZBfiF-lqNTGX0DhOxgG_-D5OfIlqY40c"
 }
