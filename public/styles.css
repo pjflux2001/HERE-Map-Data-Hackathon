@@ -532,6 +532,8 @@ body > div.ui.center.aligned.segment.masthead > div > h1{
 	 }
 	}
 
-
+.ui.grid {
+	    margin-top: -.5rem;
+}
 
 /*======================plasma bank====================*/
