@@ -48,3 +48,6 @@ p,hr,h1,h3,label,a {
 .description, .meta, .header, .icon {
     color: black!important;
 }
+.header{
+    color: white!important;
+}

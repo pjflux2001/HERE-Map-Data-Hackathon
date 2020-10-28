@@ -5,6 +5,10 @@ var mongoose = require("mongoose");
 var esri = require("./models/schema.js");
 var uri = process.env.URI || "mongodb+srv://sudhanshumohan:hesoyam@cluster0-3z3hj.mongodb.net/hospital_data?retryWrites=true&w=majority";
 var port = process.env.PORT || 31000;
+var hereCreds = {
+    JSKEY: process.env.JSKEY,
+    RESTKEY: process.env.RESTKEY
+}
 
 mongoose.connect(uri,{
 	useNewUrlParser:true,
